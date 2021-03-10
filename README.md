@@ -20,7 +20,7 @@
 
 项目大概的结构如下，感兴趣的可以看下源码，欢迎交流。~~我是菜鸡~~
 
-![QQ截图20210310120125](E:\java-workspace\kuroko-msg\images\QQ截图20210310120125.png)
+![QQ截图20210310120125](https://raw.githubusercontent.com/ht-kuroko/kuroko-msg/main/images/QQ%E6%88%AA%E5%9B%BE20210310120125.png )
 
 > 模块并没有分开，功能不多就写在一起了
 
@@ -62,7 +62,7 @@ spring:
 
 启动成功后大概会有如下输出：~~不要问我jar文件怎么运行~~
 
-![QQ截图20210309210304](E:\java-workspace\kuroko-msg\images\QQ截图20210309210304.png)
+![QQ截图20210309210304](https://raw.githubusercontent.com/ht-kuroko/kuroko-msg/main/images/QQ%E6%88%AA%E5%9B%BE20210309210304.png )
 
 ### 登录
 
@@ -80,7 +80,7 @@ spring:
 
 登陆成功你会看到Mirai输出的日志，可以使用了。
 
-![image-20210310113234883](E:\java-workspace\kuroko-msg\images\image-20210310113234883.png)
+![image-20210310113234883](https://raw.githubusercontent.com/ht-kuroko/kuroko-msg/main/images/image-20210310113234883.png )
 
 ### 接口说明
 
@@ -122,3 +122,6 @@ spring:
 
 [mirai-dev-doc]:https://github.com/mamoe/mirai/blob/dev/docs/Bots.md#%E5%B8%B8%E8%A7%81%E7%99%BB%E5%BD%95%E5%A4%B1%E8%B4%A5%E5%8E%9F%E5%9B%A0
 
+[启动成功]:https://raw.githubusercontent.com/ht-kuroko/kuroko-msg/main/images/QQ%E6%88%AA%E5%9B%BE20210309210304.png
+[登陆成功]:https://raw.githubusercontent.com/ht-kuroko/kuroko-msg/main/images/image-20210310113234883.png
+[架构]: https://raw.githubusercontent.com/ht-kuroko/kuroko-msg/main/images/QQ%E6%88%AA%E5%9B%BE20210310120125.png
